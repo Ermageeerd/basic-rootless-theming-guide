@@ -15,6 +15,8 @@ https://github.com/Mahmud0808/ColorBlendr
 
 # Change Heads-Up Notifications.
 
+![image](https://github.com/Ermageeerd/basic-rootless-theming-guide/raw/refs/heads/main/Screenshot_20250512-053842.png)
+
 First, run the command below.
 ```
 adb shell settings put global heads_up_notifications_enabled 0
