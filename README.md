@@ -5,6 +5,8 @@ NOTE: SOME THINGS REQUIRE SHIZUKU
 
 # Change Material You Colors
 
+![image](https://github.com/Ermageeerd/basic-rootless-theming-guide/raw/refs/heads/main/Screenshot_20250512-054532.png)
+
 You need Shizuku to use this app rootlessly, it works.
 
 Open the app, and follow the instructions.
