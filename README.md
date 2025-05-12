@@ -34,3 +34,20 @@ Here's the app!
 
 https://play.google.com/store/apps/details?id=com.tombayley.volumepanel
 
+# Change Notification Panel
+
+The worst of the list, the apps that do this usually either require unneeded setup that could be done with Shizuku or don't allow you to tap an area. Or both.
+
+However, it's still rootless theming, so I have to add them.
+
+https://play.google.com/store/apps/details?id=com.treydev.pns
+
+https://play.google.com/store/apps/details?id=com.tombayley.miui
+
+https://play.google.com/store/apps/details?id=com.treydev.ons
+
+https://play.google.com/store/apps/details?id=com.treydev.micontrolcenter
+
+https://play.google.com/store/apps/details?id=com.jalan.control.center.ios15
+
+https://play.google.com/store/apps/details?id=com.jalan.control.center.android14
