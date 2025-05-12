@@ -17,3 +17,20 @@ https://apt.izzysoft.de/fdroid/index/apk/codes.simen.l50notifications
 https://apt.izzysoft.de/fdroid/index/apk/com.achep.headsup
 
 https://play.google.com/store/apps/details?id=com.jamworks.dynamicspot
+
+And there we go!
+
+# Change Volume Panel
+
+This one is much simpler! Unfortunately, I know no FOSS app to do this.
+
+All you need to do is install the app, and follow the instructions!
+
+Then, press "Start".
+
+Done!
+
+Here's the app!
+
+https://play.google.com/store/apps/details?id=com.tombayley.volumepanel
+
