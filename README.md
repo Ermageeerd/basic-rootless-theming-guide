@@ -44,6 +44,8 @@ https://play.google.com/store/apps/details?id=com.tombayley.volumepanel
 
 # Change Notification Panel
 
+![image](https://github.com/Ermageeerd/basic-rootless-theming-guide/raw/refs/heads/main/Screenshot_20250512-053820.png)
+
 The worst of the list, the apps that do this usually either require unneeded setup that could be done with Shizuku or don't allow you to tap an area. Or both.
 
 However, it's still rootless theming, so I have to add them.
