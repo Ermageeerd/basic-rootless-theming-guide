@@ -30,6 +30,8 @@ And there we go!
 
 # Change Volume Panel
 
+![image](https://github.com/Ermageeerd/basic-rootless-theming-guide/raw/refs/heads/main/Screenshot_20250512-053814.png)
+
 This one is much simpler! Unfortunately, I know no FOSS app to do this.
 
 All you need to do is install the app, and follow the instructions!
