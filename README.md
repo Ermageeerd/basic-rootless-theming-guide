@@ -3,6 +3,14 @@ This repository is a compilation of all Rootless theming things I know.
 
 NOTE: SOME THINGS REQUIRE SHIZUKU
 
+# Change Material You Colors
+
+You need Shizuku to use this app rootlessly, it works.
+
+Open the app, and follow the instructions.
+
+https://github.com/Mahmud0808/ColorBlendr
+
 # Change Heads-Up Notifications.
 
 First, run the command below.
